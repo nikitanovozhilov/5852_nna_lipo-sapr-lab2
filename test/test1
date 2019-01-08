@@ -1,0 +1,3 @@
+| #define NORM 1
+| #define NOT_NORM 0
+| #define TRUE FALSE
